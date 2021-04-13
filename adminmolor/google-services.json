@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "722229214546",
+    "firebase_url": "https://monggo-lapor.firebaseio.com",
+    "project_id": "monggo-lapor",
+    "storage_bucket": "monggo-lapor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722229214546:android:ec060d21ceee9ff2ef4e8b",
+        "android_client_info": {
+          "package_name": "com.example.adminmolor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722229214546-75pf4nb9ulv86gu73qrckgr64gfg3eh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xSRud1aKrVAACSqM7UeNddfL7fsrdQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722229214546-75pf4nb9ulv86gu73qrckgr64gfg3eh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722229214546:android:2942c659be871472ef4e8b",
+        "android_client_info": {
+          "package_name": "com.example.monggolapor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722229214546-75pf4nb9ulv86gu73qrckgr64gfg3eh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xSRud1aKrVAACSqM7UeNddfL7fsrdQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722229214546-75pf4nb9ulv86gu73qrckgr64gfg3eh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722229214546:android:b75f6092185d14e8ef4e8b",
+        "android_client_info": {
+          "package_name": "com.molor.adminmolor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722229214546-75pf4nb9ulv86gu73qrckgr64gfg3eh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xSRud1aKrVAACSqM7UeNddfL7fsrdQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722229214546-75pf4nb9ulv86gu73qrckgr64gfg3eh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722229214546:android:0a1eb760b9f9fffeef4e8b",
+        "android_client_info": {
+          "package_name": "com.molor.monggolapor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722229214546-75pf4nb9ulv86gu73qrckgr64gfg3eh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xSRud1aKrVAACSqM7UeNddfL7fsrdQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722229214546-75pf4nb9ulv86gu73qrckgr64gfg3eh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

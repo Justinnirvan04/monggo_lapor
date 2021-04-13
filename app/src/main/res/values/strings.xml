@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Molor</string>
+    <string name="lorem">Aplikasi ini di buat oleh team, pada tanggal 04/Agustus/2020, tujuan kami membuat aplikasi ini, Karena di krasidenan Pati aplikasi pelaporan masih belum ada jadi kami membuat aplikasi ini untuk memudahkan masyarakat
+    untuk melapor misalnya jalan yang rusak,fasilitas warga yang rusak dll. Di aplikasi ini memerlukan login agar admin tau siapa pengguna yang menggunakan aplikasi ini, di dalam aplikasi ini terdapat beberapa tampilan di dashboard. Lapor,event,feeds,pengembang.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="gender">
+        <item>- Pilih Gender -</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>- Pilih Status -</item>
+        <item>WNI</item>
+        <item>WNA</item>
+    </string-array>
+</resources>

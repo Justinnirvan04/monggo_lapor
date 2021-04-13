@@ -1,0 +1,3 @@
+include ':adminmolor'
+include ':app'
+rootProject.name = "Monggo Lapor"
